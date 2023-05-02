@@ -1,16 +1,12 @@
-# pr_color_pallate
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/121868184/235764524-d1164c30-ed7a-4e6a-a726-c3e52d7da43b.png" width="250px"><img src="https://user-images.githubusercontent.com/121868184/235764531-b8e2eee8-3fc4-49d0-b1e0-7209467665ff.png" width="250px">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+<img src="https://user-images.githubusercontent.com/121868184/235764543-c3754268-0d58-46c5-85b9-e9e0f3503eec.png" width="250px"><img src="https://user-images.githubusercontent.com/121868184/235764550-a20b7847-7795-4484-aa6b-a2f83582a324.png" width="250px">
+
